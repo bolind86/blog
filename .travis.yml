@@ -1,11 +1,14 @@
 os:
   - osx
+  - linux
+
 language: node_js
 node_js: stable
 
 cache:
   directories:
     - node_modules
+
 before_install:
   - sudo apt-get update
   - sudo apt-get install libpng16-dev
