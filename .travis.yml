@@ -10,8 +10,8 @@ cache:
     - node_modules
 
 before_install:
-  - sudo apt-get update
-  - sudo apt-get install libpng16-dev
+  - npm i imagemin-mozjpeg@6.0.0
+
 install:
   - npm install
 
