@@ -1,5 +1,6 @@
 ---
 title: Travis CI自动部署Hexo博客到GitHub
+date: 2018/11/19 09:46:25
 categories: hexo
 tags: [hexo, 自动部署, Travis CI]
 ---

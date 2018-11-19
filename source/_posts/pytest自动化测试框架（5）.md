@@ -1,6 +1,7 @@
 ---
 
 title: pytest自动化测试框架（5）-Allure生成漂亮的HTML图形化测试报告
+date: 2018/10/23 13:46:25
 categories: 软件测试
 tags: [pytest, 自动化测试]
 

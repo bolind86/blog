@@ -1,5 +1,6 @@
 ---
 title: pytest自动化测试框架（2）-用例形式
+date: 2018/10/20 13:46:25
 categories: 软件测试
 tags: [pytest, 自动化测试]
 

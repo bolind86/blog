@@ -1,5 +1,6 @@
 ---
 title: python中的pathlib模块
+date: 2018/10/17 13:46:25
 categories: python
 tags: [python, pathlib]
 ---

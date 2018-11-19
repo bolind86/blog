@@ -1,5 +1,6 @@
 ---
 title: The server's host key is not cached in the registry
+date: 2018/10/21 13:46:25
 categories: 软件测试
 tags: [windows, pscp]
 ---

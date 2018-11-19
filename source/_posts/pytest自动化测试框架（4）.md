@@ -1,5 +1,6 @@
 ---
 title: pytest自动化测试框架（4）-报告
+date: 2018/10/22 13:46:25
 categories: 软件测试
 tags: [pytest, 自动化测试]
 

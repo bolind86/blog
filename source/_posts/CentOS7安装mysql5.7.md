@@ -1,5 +1,6 @@
 ---
 title: CentOS7安装mysql5.7
+date: 2018/10/03 13:46:25
 categories: linux
 tags: [mysql, centos]
 

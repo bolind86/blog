@@ -1,5 +1,6 @@
 ---
 title: python中的for循环计数
+date: 2018/11/15 13:46:25
 categories: python
 tags: [python, for计数]
 ---

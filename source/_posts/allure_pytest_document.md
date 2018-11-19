@@ -1,5 +1,6 @@
 ---
 title: allure pytest说明文档
+date: 2018/10/04 13:46:25
 categories: 软件测试
 tags: [pytest, allure]
 ---

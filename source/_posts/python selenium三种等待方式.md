@@ -1,5 +1,6 @@
 ---
 title: python selenium中的三种元素等待方式
+date: 2018/11/14 13:46:25
 categories: 软件测试
 tags: [python, selenium, 元素]
 ---

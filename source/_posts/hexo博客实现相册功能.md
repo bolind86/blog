@@ -1,5 +1,6 @@
 ---
 title: hexo博客增加相册功能
+date: 2018/10/11 13:46:25
 categories: hexo
 tags: [nexT, 相册]
 ---

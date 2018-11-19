@@ -1,5 +1,6 @@
 ---
 title: hexo博客nexT主题美化
+date: 2018/10/10 13:46:25
 categories: hexo
 tags: [nexT, 主题美化]
 ---
