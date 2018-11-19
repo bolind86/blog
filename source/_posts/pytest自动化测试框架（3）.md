@@ -1,7 +1,7 @@
 ---
 title: pytest自动化测试框架（3）-fixture
 date: 2018/10/21 13:46:25
-categories: 软件测试
+categories: [软件测试, 自动化测试]
 tags: [pytest, 自动化测试]
 
 ---

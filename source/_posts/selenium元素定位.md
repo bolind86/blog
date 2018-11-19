@@ -1,20 +1,20 @@
 ---
 title: Selenium元素定位
 date: 2018/11/17 19:46:25
-categories: 软件测试
+categories: [软件测试, 自动化测试]
 tags: [selenium, 元素定位]
 ---
 
 # 定位方式
 
-- id
-- name
-- class name
-- tag name
-- link text
-- partial link text
-- xpath
-- css selector
+- > **id**
+- > **name**
+- > **class name**
+- > **tag name**
+- > **link text**
+- > **partial link text**
+- > **xpath**
+- > **css selector**
 
 # 用法
 
@@ -65,13 +65,6 @@ tags: [selenium, 元素定位]
   dr.find_element_by_css_selector("form#form > span > input")
   ```
 
-接下来，我们的页面上有一组文本链接。
-
-```
-<a class="mnav" href="http://news.baidu.com" name="tj_trnews">新闻</a>
-<a class="mnav" href="http://www.hao123.com" name="tj_trhao123">hao123</a>
-```
-
 - 通过link text定位:
 
   ```
@@ -79,7 +72,7 @@ tags: [selenium, 元素定位]
   dr.find_element_by_link_text("hao123")
   ```
 
-- 通过link text定位:
+- 通过partial link text定位:
 
   ```
   dr.find_element_by_partial_link_text("新")

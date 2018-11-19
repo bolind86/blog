@@ -1,7 +1,7 @@
 ---
 title: pytest命令向测试文件传递自定义参数
 date: 2018/10/20 13:46:25
-categories: 软件测试
+categories: [软件测试, 自动化测试]
 tags: [pytest, 参数]
 ---
 

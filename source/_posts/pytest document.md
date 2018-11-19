@@ -1,7 +1,7 @@
 ---
 title: pytest document
 date: 2018/10/19 13:46:25
-categories: python
+categories: [软件测试, 自动化测试]
 tags: [pytest]
 ---
 

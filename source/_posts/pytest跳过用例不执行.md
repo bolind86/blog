@@ -1,7 +1,7 @@
 ---
 title: pytest跳过用例不执行
 date: 2018/11/11 13:46:25
-categories: 软件测试
+categories: [软件测试, 自动化测试]
 tags: [pytest, 自动化测试]
 ---
 
