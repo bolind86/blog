@@ -1,7 +1,7 @@
 ---
 title: postman参数设置及引用
 categories: 软件测试
-tags: [postman]
+tags: [postman, 参数设置]
 ---
 
 摘要：本文介绍如何在postman中设置参数以及如何如何引用参数。

@@ -1,7 +1,7 @@
 ---
 title: CentOS7安装mysql5.7
 categories: linux
-tags: [mysql]
+tags: [mysql, centos]
 
 ---
 **摘要：**如果有其他版本的mysql，建议先做好数据备份，然后卸载完成后进行新版本的安装

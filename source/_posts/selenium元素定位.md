@@ -1,7 +1,7 @@
 ---
 title: Selenium元素定位
 categories: 软件测试
-tags: [元素定位]
+tags: [selenium, 元素定位]
 ---
 
 # 定位方式

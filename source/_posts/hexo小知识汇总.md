@@ -1,7 +1,7 @@
 ---
 title: Hexo博客问题汇总
 categories: hexo
-tags: [pdf]
+tags: [hexo, pdf]
 ---
 
 摘要：hexo个人博客问题汇总及解决办法。

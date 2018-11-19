@@ -1,7 +1,7 @@
 ---
 title: hexo github 阿里云搭建博客系统
 categories: hexo
-tags: [hexo, 博客]
+tags: [hexo, github, 阿里云, 博客]
 
 ---
 

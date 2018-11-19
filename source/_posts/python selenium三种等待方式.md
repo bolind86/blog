@@ -1,7 +1,7 @@
 ---
 title: python selenium中的三种元素等待方式
 categories: 软件测试
-tags: [selenium]
+tags: [python, selenium, 元素]
 ---
 
 selenium中经常出现`NoSuchElementException: Unable to locate element`的错误，导致的原因要么是定位错误，要么是元素未加载出来，下面介绍三种元素等待的方式。

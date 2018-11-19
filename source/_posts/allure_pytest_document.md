@@ -1,7 +1,7 @@
 ---
 title: allure pytest说明文档
 categories: 软件测试
-tags: [pytest]
+tags: [pytest, allure]
 ---
 
 

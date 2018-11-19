@@ -1,7 +1,7 @@
 ---
 title: win10提供指定端口给其他电脑访问
 categories: windows
-tags: [防火墙]
+tags: [windows, 防火墙]
 ---
 
 本地部署了一个`jenkins`服务，结果只能`localhost`访问，尝试关闭360无效，关闭本机防火墙后OK，那么问题就出在防火墙上。

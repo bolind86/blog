@@ -1,7 +1,7 @@
 ---
 title: python3实现SSH上传下载
 categories: python
-tags: [上传下载]
+tags: [python，ssh, 上传下载]
 ---
 
 **摘要:**直接上代码

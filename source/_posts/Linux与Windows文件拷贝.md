@@ -1,7 +1,7 @@
 ---
 title: Linux与Windows文件拷贝
 categories: linux
-tags: [文件拷贝]
+tags: [linux, windows, 文件拷贝]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: python中函数和方法的区别
 categories: python
-tags: [python]
+tags: [python, 函数, 方法]
 ---
 
 **摘要：**

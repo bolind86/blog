@@ -1,7 +1,7 @@
 ---
 title: python中的pathlib模块
 categories: python
-tags: [pathlib]
+tags: [python, pathlib]
 ---
 
 | 类/属性/方法                                           | 返回值 | 参数                          | 说明                                               |

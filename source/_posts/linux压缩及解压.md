@@ -1,7 +1,7 @@
 ---
 title: Linux压缩及解压
 categories: linux
-tags: [压缩, 解压]
+tags: [linux, 压缩, 解压]
 ---
 
 linux压缩及解压命令。

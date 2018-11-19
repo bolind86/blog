@@ -1,7 +1,7 @@
 ---
 title: pytest自动化测试框架（3）-fixture
 categories: 软件测试
-tags: [pytest]
+tags: [pytest, 自动化测试]
 
 ---
 

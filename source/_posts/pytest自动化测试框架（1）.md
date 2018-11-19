@@ -1,7 +1,7 @@
 ---
 title: pytest自动化测试框架（1）-初探
 categories: 软件测试
-tags: [pytest]
+tags: [pytest, 自动化测试]
 
 ---
 

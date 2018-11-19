@@ -1,7 +1,7 @@
 ---
 title: CentOS7安装Tomcat8
 categories: linux
-tags: [tomcat]
+tags: [tomcat, centos]
 
 ---
 **摘要：**系统自带的openJDK必须删除，否则后续无法启动tomcat

@@ -1,7 +1,7 @@
 ---
 title: python3发送邮件
 categories: python
-tags: [邮件]
+tags: [python, 邮件]
 
 ---
 

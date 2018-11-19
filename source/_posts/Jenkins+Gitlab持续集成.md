@@ -1,7 +1,7 @@
 ---
 title: Jenkins+Gitlab持续集成
 categories: 软件测试
-tags: [Jenkins]
+tags: [Jenkins, gitlab, 持续集成]
 
 ---
 

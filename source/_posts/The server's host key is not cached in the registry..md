@@ -1,7 +1,7 @@
 ---
 title: The server's host key is not cached in the registry
 categories: 软件测试
-tags: [pscp]
+tags: [windows, pscp]
 ---
 
 

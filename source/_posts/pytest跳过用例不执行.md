@@ -1,7 +1,7 @@
 ---
 title: pytest跳过用例不执行
 categories: 软件测试
-tags: [pytest]
+tags: [pytest, 自动化测试]
 ---
 
 `pytest`可以通过`mark`标记，然后通过命令行参数来确定哪些用例执行，还有另一种不需要命令行带参数的方法。
