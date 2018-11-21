@@ -1,9 +1,11 @@
 // Custom styles.
+// 代码块的自定义样式
 code {
     color: #ff7600;
     background: #fbf7f8;
     margin: 2px;
 }
+
 // 大代码块的自定义样式
 .highlight, pre {
     margin: 5px 0;
@@ -12,4 +14,40 @@ code {
 }
 .highlight, code, pre {
     border: 1px solid #d6d6d6;
+}
+
+// 分类页面
+.post-block.page {
+    margin-top: 40px;
+}
+.category-all-page {
+    margin: -80px 50px 40px 50px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 255);
+    padding: 86px 36px 36px 36px;
+}
+@media (max-width: 767px) {
+    .category-all-page {
+        margin: -73px 15px 50px 15px;
+    }
+    .category-all-page .category-all-title {
+        margin-top: -5px;
+    }
+}
+
+// 标签云页面
+.tag-cloud {
+    margin: -80px 50px 40px 50px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 255);
+    padding: 86px 36px 36px 36px;
+}
+.tag-cloud-title {
+    margin-bottom: 15px;
+}
+@media (max-width: 767px) {
+    .tag-cloud {
+        margin: -73px 15px 50px 15px;
+        padding: 86px 5px 36px 5px;
+    }
 }
