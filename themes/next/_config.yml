@@ -98,7 +98,7 @@ menu:
   home: / || home
   categories: /categories/ || bars
   tags: /tags/ || tags
-  top: /top/ || signal
+  #top: /top/ || signal
   #photos: /photos || camera-retro
   #archives: /archives/ || archive
   #schedule: /schedule/ || calendar
