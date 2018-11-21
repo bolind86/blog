@@ -10,12 +10,12 @@
     {% endif %}
 
     <div class="custom-logo-site-title">
-      <a href="{{ config.root }}"  class="brand" rel="start" style="padding-right: 88%;">
+      <a href="{{ config.root }}"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        {#<span class="site-title">{{ config.title }}</span>#}
-		<div class="">
+        <span class="site-title">{{ config.title }}</span>
+		{#<div class="">
 			<img class="" src="http://img.qizhenjun.com/logo_blog.png" style="max-height: 130px">
-		</div>
+		</div>#}
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>

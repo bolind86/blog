@@ -99,9 +99,9 @@
     <script type="text/javascript" src="/blog/js/src/love.js"></script>
 	
 	<!-- 页面背景 --> 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>;
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
 	<!-- <script>
 		$("body").backstretch("http://img.qizhenjun.com/timg%20%2810%29.jpg");
-	</script> -->
+	</script> --> 
 </body>
 </html>
