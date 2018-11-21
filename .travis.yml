@@ -42,5 +42,5 @@ env:
 notifications:
   email:
     - 15388511@qq.com
-  on_success: change
+  on_success: always
   on_failure: always
