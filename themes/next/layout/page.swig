@@ -35,11 +35,11 @@
             <div class="tag-cloud-title">
                 {{ _p('counter.tag_cloud', site.tags.length) }}
             </div>
-            {# <div class="tag-cloud-tags">
+            <div class="tag-cloud-tags">
               {{ tagcloud({min_font: 13, max_font: 31, amount: 1000, color: true, start_color: '#9733EE', end_color: 'white'}) }}
             </div>
-			tagcanvas plugin 球型云标签 #}
-			{% include '_partials/tagcanvas.swig' %}
+			{# tagcanvas plugin 球型云标签
+			{% include '_partials/tagcanvas.swig' %} #}
           </div>
         {% elif page.type === 'categories' %}
           <div class="category-all-page">
