@@ -1,7 +1,7 @@
 ---
 title: Selenium元素定位
 date: 2018/11/17 19:46:25
-categories: [软件测试, 自动化测试]
+categories: [软件测试, 自动化测试, UI自动化]
 tags: [selenium, 元素定位]
 ---
 

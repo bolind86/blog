@@ -1,7 +1,7 @@
 ---
 title: CSS样式常用设置
 date: 2018/10/05 13:46:25
-categories: 前端
+categories: [前端, css]
 tags: [css]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: git clone GitHub分支上的代码
 date: 2018/11/91 14:25:25
-categories: [软件测试]
+categories: [软件测试, git]
 tags: [git, 分支]
 ---
 

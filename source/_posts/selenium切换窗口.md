@@ -1,7 +1,7 @@
 ---
 title: selenium切换窗口
 date: 2018/11/19 14:47:00
-categories: [软件测试，自动化测试]
+categories: [软件测试, 自动化测试, UI自动化]
 tags[selenium, 窗口切换]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: python处理\\u编码串
 date: 2018/10/11 13:46:25
-categories: python
+categories: [软件测试, python]
 tags: [python, \\u]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: postman参数设置及引用
 date: 2018/10/18 13:46:25
-categories: 软件测试
+categories: [软件测试]
 tags: [postman, 参数设置]
 ---
 

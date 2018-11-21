@@ -1,7 +1,7 @@
 ---
 title: Selenium鼠标事件
 date: 2018/11/19 13:51:25
-categories: [软件测试, 自动化测试]
+categories: [软件测试, 自动化测试, UI自动化]
 tags: [selenium, 鼠标事件]
 ---
 
