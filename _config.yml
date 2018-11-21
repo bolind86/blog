@@ -16,8 +16,15 @@ timezone:
 url: https://qizhenjun.com/blog
 root: /blog/
 #permalink: :year/:month/:day/:title/
-permalink: :title.html
+permalink: :abbrlink/
 permalink_defaults:
+# Abbrlink Config
+abbrlink:
+  # 算法：crc16(default) and crc32 
+  alg: crc32
+  # 进制：dec(default) and hex
+  rep: hex
+
 
 # Directory
 source_dir: source
@@ -107,3 +114,9 @@ baidu_url_submit:
   token: 2plFSLUSxnLVLBry
   path: baidu_urls.txt
 
+# Nofollow Config
+nofollow:
+  enable: true
+  # exclude: # 例外的链接，可将友情链接放置此处，请同时去掉注释
+  # - exclude1.com
+  # - exclude2.com
