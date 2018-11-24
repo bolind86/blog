@@ -9,53 +9,55 @@ tags: [mysql, centos]
 
 <!-- more -->
 
- 1. yum源安装包下载
-[下载地址](https://dev.mysql.com/downloads/repo/yum/)
+### 卸载自带MaraiaDB
 
- 2. 安装源
-```linux
-yum localinstall yum源安装包
+```shell
+rpm -qa|grep mariadb
+rpm -e --nodeps mariadb-libs-*
 ```
 
- 3. 检查mysql源是否安装成功
-```linux
-yum repolist enabled | grep "mysql.*-community.*"
+### yum安装
+
+```shell
+wget -i -c http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
+yum -y install mysql57-community-release-el7-10.noarch.rpm
+yum -y install mysql-community-server
 ```
 
- 4. 安装mysql
-```linux
-yum install mysql-community-server
-```
+### 启动服务
 
- 5. 启动mysql并设置开机启动
-```linux
+```shell
+systemctl status mysqld
 systemctl start mysqld
 systemctl enable mysqld
 ```
 
- 6. 给root用户生产一个默认密码
-```linux
-grep 'temporary password' /var/log/mysqld.log
+### 生成root初始密码
+
+`grep "password" /var/log/mysqld.log`
+
+### 修改root密码
+
+```mysql
+mysql -uroot -p
+ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';
 ```
 
- 7. 登录mysql修改密码
-```linux
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
+### 新增远程登录用户
+
+```mysql
+CREATE USER 'username'@'host' IDENTIFIED BY 'password';
 ```
 
- 8. 添加远程登录用户
-```linux
-GRANT ALL PRIVILEGES ON *.* TO 'user'@'%' IDENTIFIED BY 'User123qwe!@#' WITH GRANT OPTION;
+### 授权数据库权限
+
+```mysql
+GRANT all privileges ON 数据库.表 TO '用户'@'主机' identified by '用户密码';
+# 所有数据库、所有表可以用 * 表示
+# 所有主机可以用 % 表示
+
+flush privileges;	# 刷新权限
 ```
 
- 9. 修改mysql配置
-```linux
-vi /etc/my.cnf
-character_set_server=utf8
-init_connect='SET NAMES utf8'
-```
 
- 10. 重启mysql
-```linux
-systemctl restart mysqld
-```
+
