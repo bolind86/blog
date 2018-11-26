@@ -163,6 +163,7 @@ links_title: Links
 links_layout: inline
 links:
   #Title: http://example.com/
+  在线作图: https://www.processon.com/diagrams
   文件转换: https://www.aconvert.com/cn/
   Font Awesome: https://fontawesome.com/icons?d=gallery
   Travis CI: https://travis-ci.org/
@@ -170,9 +171,6 @@ links:
   LeanCloud: https://leancloud.cn
   七牛云: https://portal.qiniu.com
   DaoVoice: http://dashboard.daovoice.io/app/f9b7d2f9/users?segment=all-users
-  百度资源管理平台: https://ziyuan.baidu.com
-  百度统计: https://tongji.baidu.com
-  NexT文档: http://theme-next.iissnan.com/getting-started.html
   
 
 # Sidebar Avatar
