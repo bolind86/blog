@@ -5,22 +5,74 @@ categories: [软件测试, python]
 tags: [python, pathlib]
 ---
 
-| 类/属性/方法                                           | 返回值 | 参数                          | 说明                                               |
-| ------------------------------------------------------ | ------ | ----------------------------- | :------------------------------------------------- |
-| .Path()                                                | p      | 创建Path对象                  |                                                    |
-|                                                        |        | path                          | 路径                                               |
-| p.parent                                               | Path   | 返回上一级路径                |                                                    |
-| p.parents                                              | iter   | 上一级路径, 上上级路径,   ... |                                                    |
-| p.name                                                 | str    | 获取文件名                    |                                                    |
-| p.suffix                                               | str    | 获取后缀                      |                                                    |
-| p.iterdir()                                            | iter   |                               | 返回一个迭代器, 包含p下所有文件/目录               |
-| p.is_file()                                            | bool   |                               | 判断p是不是文件                                    |
-| p.is_dir()                                             | bool   |                               | 判断p是不是目录                                    |
-| p.is_absolute()                                        | bool   |                               | 判断p是不会绝对路径                                |
-| p.match()                                              | bool   | path_pattern                  | 判断p是否符合某一模式,   比如('C:\Windows\*')      |
-| [p.glob()](http://www.cnblogs.com/P--K/p/8403776.html) | iter   | pattern                       | '*.py': 搜索p下所有py文件                          |
-|                                                        |        |                               | '**\*.py': 搜索p下及其子目录(包括深层)下所有py文件 |
-| p.rglob()                                              | iter   | pattern                       | '*.py': 搜索p下及其子目录(包括深层)下所有py文件    |
-| p.mkdir()                                              |        |                               | 若p目录不存在则创建                                |
-| p.rmdir()                                              |        |                               | 若p是空目录则删除p                                 |
-| p.relative_to()                                        | Path   | *other                        | 返回p相对于other的相对路径                         |
+
+
+# pathlib用法
+
+`Path.iterdir()`			# 遍历目录的子目录或者文件
+
+`Path.is_dir()`				# 判断是否是目录
+
+`Path.glob()`				# 过滤目录(返回生成器)
+
+`Path.resolve()`			# 返回绝对路径
+
+`Path.exists()`				# 判断路径是否存在
+
+`Path.open()`				# 打开文件(支持with)
+
+`Path.unlink()`				# 删除文件或目录(目录非空触发异常)
+
+
+
+`Path.parts`  				# 分割路径 类似os.path.split(), 不过返回元组
+
+`Path.drive`  				# 返回驱动器名称
+
+`Path.root`					# 返回路径的根目录
+
+`Path.anchor`				# 自动判断返回drive或root
+
+`Path.parents`				# 返回所有上级目录的列表
+
+
+
+`Path.with_name()`			# 更改路径名称, 更改最后一级路径名
+
+`Path.with_suffix()`		# 更改路径后缀
+
+
+
+`Path.joinpath()`			# 拼接路径
+
+`Path.relative_to()`		# 计算相对路径
+
+
+
+`Path.match()`				# 测试路径是否符合pattern
+
+`Path.is_dir()`				# 是否是文件
+
+`Path.is_absolute()`		# 是否是绝对路径
+
+`Path.is_reserved()`		# 是否是预留路径
+
+`Path.exists()`				# 判断路径是否真实存在
+
+
+
+`Path.cwd()`					# 返回当前目录的路径对象
+
+`Path.home()`				# 返回当前用户的home路径对象
+
+`Path.stat()`				# 返回路径信息, 同os.stat()
+
+`Path.chmod()`				# 更改路径权限, 类似os.chmod()
+
+`Path.expanduser()`			# 展开~返回完整路径对象
+
+`Path.mkdir()`				# 创建目录
+
+`Path.rename()`				# 重命名路径
+
+`Path.rglob()`				# 递归遍历所有子目录的文件
