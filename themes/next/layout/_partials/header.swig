@@ -10,7 +10,6 @@
     {% endif %}
 
     <div class="custom-logo-site-title">
-	  {%<a href="{{ config.root }}"  class="brand" rel="start">%}
       <a href="https://www.qizhenjun.com/"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
         <span class="site-title">{{ config.title }}</span>
