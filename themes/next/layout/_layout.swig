@@ -96,7 +96,7 @@
   {% include '_third-party/CloudCalendar.swig' %}
   
 	<!-- 页面点击小红心 --> 
-    <script type="text/javascript" src="/blog/js/src/love.js"></script>
+    <script type="text/javascript" src="/js/src/love.js"></script>
 	
 	<!-- 页面背景 --> 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
