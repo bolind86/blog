@@ -15,7 +15,7 @@
     }) }}
   </ul>
 </div>
-<script type="text/javascript" src="/blog/js/src/tagcanvas.js"></script>
+<script type="text/javascript" src="/js/src/tagcanvas.js"></script>
 <script type="text/javascript" >
   window.onload = function() {
     try {
