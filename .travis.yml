@@ -34,7 +34,7 @@ branches:
     - hexo
 env:
  global:
-   - GH_REF: github.com/bolind86/blog.git
+   - GH_REF: github.com/bolind86/bolind86.github.io.git
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!

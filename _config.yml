@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://qizhenjun.com/blog
+url: https://blog.qizhenjun.com
 root: /blog/
 #permalink: :year/:month/:day/:title/
 permalink: :abbrlink/
@@ -104,7 +104,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: https://gh_token@github.com/bolind86/blog.git
+  repo: https://gh_token@github.com/bolind86/bolind86.github.io.git
   branch: master
 - type: baidu_url_submitter
 
