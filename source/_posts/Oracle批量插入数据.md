@@ -1,7 +1,7 @@
 ---
 title: Oracle批量插入数据
 date: 2018/12/03 11:45
-categories: oracle
+categories: [数据库, oracle]
 tags: [oracle, 插入]
 ---
 

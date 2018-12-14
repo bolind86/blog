@@ -1,7 +1,7 @@
 ---
 title: python使用itchat监控微信消息
 date: 2018/11/23 15:19:00
-categories: python
+categories: [软件测试, python]
 tags: [python, 微信, itchat]
 ---
 

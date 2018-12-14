@@ -1,7 +1,7 @@
 ---
 title: No module named 'itchat.content'
 date: 2018/11/24 10:41:00
-categories: [python]
+categories: [软件测试, python]
 tags: [itchat]
 ---
 
