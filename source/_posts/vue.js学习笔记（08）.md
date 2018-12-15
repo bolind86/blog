@@ -5,7 +5,7 @@ categories: [前端, vue.js]
 tags: [vue.js]
 ---
 
-父子组件传值
+父子组件传值   非父子组件传值
 
 <!-- more -->
 
@@ -112,5 +112,39 @@ methods: {
         alert('父组件数据'+this.$parent.title);
         this.$parent.parentRun();
       }
+```
+
+# 非父子组件传值
+
+`src-model`下新建`vueEvent.js`:
+
+```js
+import Vue from 'vue';
+let vueEvent = new Vue();
+export default vueEvent;
+
+```
+
+广播：`vueEvent.$emit()`
+
+```js
+import vueEvent from '../model/vueEvent.js'
+methods: {
+      radioData: function () {
+        vueEvent.$emit('son16', this.$refs.son15.title)
+      }
+    }
+```
+
+监听：`vueEvent.$on()`
+
+```js
+import vueEvent from '../../model/vueEvent.js'
+methods: {
+    mounted: function () {
+      vueEvent.$on('son16', function (data) {
+        alert(data)
+      })
+    }
 ```
 
