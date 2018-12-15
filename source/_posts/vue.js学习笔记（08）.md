@@ -9,9 +9,9 @@ tags: [vue.js]
 
 <!-- more -->
 
-# 方法
+# 父组件向子组件传值
 
-1. 在引用子组件时绑定属性；
+1. 在引用子组件时绑定动态属性；
 
    ```vue
    <son1 :title="title" :run="run" :test14="this"></son1>
@@ -31,7 +31,7 @@ tags: [vue.js]
        }
    ```
 
-2. 在子组件中引用：
+2. 在子组件中接收及引用：
 
    ```vue
        <p>Son1显示父组件参数：{{title}}</p>
@@ -51,5 +51,66 @@ tags: [vue.js]
            this.test14.run();
          }
        },
-       props: ['title', 'run', 'test14']		# 引入
+       props: ['title', 'run', 'test14']		# 接收父组件数据
    ```
+
+
+# 父组件主动获取子组件数据和方法
+
+使用`ref`
+
+父组件：
+
+```vue
+<button @click="getSon()">获取子组件数据和方法</button>
+<son15 ref="son15"></son15>
+```
+
+```js
+data() {
+      return {
+        title:'Test15.vue'
+      }
+    },
+    methods: {
+      parentRun: function () {
+        alert('Test15-function');
+      },
+      getSon: function () {
+        alert('子组件数据：'+this.$refs.son15.title);
+        this.$refs.son15.sonRun();
+      }
+    }
+```
+
+子组件：
+
+```js
+data() {
+      return {
+        title: 'Son15'
+      }
+    },
+    methods: {
+      sonRun: function() {
+        alert('son15-function')
+      }
+    }
+```
+
+
+
+
+
+# 子组件主动获取父组件数据和方法
+
+`this.$parent.`
+
+```js
+methods: {
+      getParent: function () {
+        alert('父组件数据'+this.$parent.title);
+        this.$parent.parentRun();
+      }
+```
+
