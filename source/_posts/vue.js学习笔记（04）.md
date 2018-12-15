@@ -2,7 +2,7 @@
 title: vue.js学习笔记（04）
 date: 2018/12/14 16:03:00
 categories: [前端, vue.js]
-tags: [vue.js, 方法]
+tags: [vue.js]
 ---
 
 Vue事件 定义方法 执行方法  获取数据 改变数据 执行方法传值 以及事件对象

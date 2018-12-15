@@ -2,7 +2,7 @@
 title: vue.js学习笔记（05）
 date: 2018/12/14 16:07:00
 categories: [前端, vue.js]
-tags: [vue.js, 持久化]
+tags: [vue.js]
 ---
 
 事件结合双向数据绑定实现toDoList以及持久化
