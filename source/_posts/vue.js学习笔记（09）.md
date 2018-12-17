@@ -46,6 +46,7 @@ Vue.use(VueRouter)
 
    ```js
    const routes = [
+     { path: '*', redirect: '/'},	# 重定向，默认跳转
      { path: '/', component: HelloWorld },
      { path: '/class2', component: Test2 },
      { path: '/class5', component: Test5 },
@@ -55,7 +56,8 @@ Vue.use(VueRouter)
      { path: '/class11', component: Test11 },
      { path: '/class12', component: Test12 },
      { path: '/class14', component: Test14 },
-     { path: '/class15', component: Test15 }
+     { path: '/class15', component: Test15 },
+     { path: '/class10/:aid', component: Test10}	# 动态路由，GET传值
    ];
    ```
 
@@ -105,3 +107,51 @@ Vue.use(VueRouter)
          </tr>
        </table>
    ```
+
+# 动态路由
+
+1. 定义
+
+```js
+const routes = [
+  { path: '/newsDetails/:title', component: Son18}	# 动态路由
+];
+```
+
+
+
+2. 使用
+
+   ```vue
+   <router-link :to="'/newsDetails/' + item.title">{{item.title}}</router-link>
+   ```
+
+   ```js
+   mounted() {
+       console.log(this.$route.params);
+   }
+   ```
+
+# GET传值
+
+1. 定义
+
+   ```js
+     { path: '/newsDetails', component: Son18_2}
+   ```
+
+2. 使用
+
+   ```vue
+   <td><router-link :to="'/newsDetails?pic=' + item.pic">{{item.pic}}</router-link></td>
+   
+   ```
+3. 获取
+
+   ```js
+   mounted: function () {
+         this.pic = this.$route.query.pic;
+         console.log(this.pic)
+       }
+   ```
+
