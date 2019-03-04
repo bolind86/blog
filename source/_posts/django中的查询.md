@@ -1,7 +1,7 @@
 ---
 title: Django查询
 date: 2019/02/15 09:18:00
-categories: [python, Django]
+categories: [软件测试, python, Django]
 tags: [querySet]
 ---
 
