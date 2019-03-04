@@ -8,7 +8,7 @@ type: about
 >- 风随/男/1986
 - 本科/华中科技大学文华学院/计算机科学与技术专业
 - 工作年限：9年
-- 技术博客：http://qizhenjun.com
+- 技术博客：https://www.qizhenjun.com
 - Github：https://github.com/bolind86
 
 # 联系方式
@@ -108,6 +108,7 @@ type: about
 
 >- 脚本语言：python
 - web框架：Django
+- 前端框架：Vue
 - 自动化测试框架：unittest、pytest
 - 性能测试：LoadRunner/Jmeter
 - 版本管理、文档和自动化部署工具：Svn/Git/Jenkins
