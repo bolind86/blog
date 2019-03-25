@@ -2,7 +2,7 @@
 title: CentOS7安装Tomcat8
 date: 2018/10/02 13:46:25
 categories: [软件测试, tomcat]
-tags: [tomcat, centos]
+tags: [tomcat]
 
 ---
 **摘要：**系统自带的openJDK必须删除，否则后续无法启动tomcat

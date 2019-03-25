@@ -2,7 +2,7 @@
 title: hexo博客nexT主题美化
 date: 2018/10/10 13:46:25
 categories: hexo
-tags: [nexT, 主题美化]
+tags: [nexT]
 ---
 **摘要:**nexT主题包含各种美化及功能配置需要手动添加或开启,比如rss,links,背景,鼠标点击效果,在线联系,阅读进度等.
 <!-- more -->

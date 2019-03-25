@@ -2,7 +2,7 @@
 title: vue.js学习笔记（02）
 date: 2018/12/14 15:06
 categories: [前端, vue.js]
-tags: [vue.js]
+tags: [vue]
 ---
 
 绑定数据 绑定对象 循环数组渲染数据 绑定属性 绑定Html  绑定class  绑定style

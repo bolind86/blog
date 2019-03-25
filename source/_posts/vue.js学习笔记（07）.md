@@ -2,7 +2,7 @@
 title: vue.js学习笔记（07）
 date: 2018/12/15 14:47:00
 categories: [前端, vue.js]
-tags: [vue.js]
+tags: [vue]
 ---
 
 vue-resource 请求数据

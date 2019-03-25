@@ -2,7 +2,7 @@
 title: selenium切换窗口
 date: 2018/11/19 14:47:00
 categories: [软件测试, 自动化测试, UI自动化]
-tags: [selenium, 窗口切换]
+tags: [selenium]
 ---
 
 测试过程中如果出现点击一个链接打开了新页面，那么如何定位元素呢？此时便需要用到窗口切换。

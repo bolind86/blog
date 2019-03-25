@@ -2,7 +2,7 @@
 title: python格式化输出json字符串
 date: 2018/11/20 15:12:00
 categories: [软件测试, python]
-tags: [python, json]
+tags: [json]
 ---
 
 ```python

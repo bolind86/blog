@@ -2,7 +2,7 @@
 title: nginx不同端口绑定不同域名
 date: 2018/11/28 10:27:00
 categories: [软件测试, nginx]
-tags: [nginx, 端口绑定]
+tags: [nginx]
 ---
 
 ```nginx

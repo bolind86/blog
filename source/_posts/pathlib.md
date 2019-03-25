@@ -2,7 +2,7 @@
 title: python中的pathlib模块
 date: 2018/10/17 13:46:25
 categories: [软件测试, python]
-tags: [python, pathlib]
+tags: [pathlib]
 ---
 
 

@@ -2,7 +2,7 @@
 title: element表格格式化时间
 date: 2019/01/02 10:18:00
 categories: [前端, vue.js]
-tags: [vue.js, 时间格式化]
+tags: [elementUI]
 ---
 
 ```vue

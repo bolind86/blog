@@ -2,7 +2,7 @@
 title: centos7安装python3.6
 date: 2018/11/24 09:13:00
 categories: [软件测试, python]
-tags: [centos7, python3.6]
+tags: [python3]
 ---
 
 网上教程一大把，真是坑了爹，各种问题。

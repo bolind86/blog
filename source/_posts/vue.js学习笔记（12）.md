@@ -2,7 +2,7 @@
 title: vue.js学习笔记（12）
 date: 2018/12/27 09:34:00
 categories: [前端, vue.js]
-tags: [vue.js]
+tags: [vue]
 ---
 
 vuex，不同组件的数据共享

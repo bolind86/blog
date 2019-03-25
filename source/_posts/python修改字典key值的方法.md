@@ -2,7 +2,7 @@
 title: python修改字典key值的方法
 date: 2018/12/04 11:31:00
 categories: [软件测试, python]
-tags: [python, 字典, key]
+tags: [key]
 ---
 
 ### 方法一

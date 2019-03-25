@@ -2,7 +2,7 @@
 title: hexo博客-百度收录
 date: 2018/10/09 13:46:25
 categories: hexo
-tags: [nexT, 百度收录]
+tags: [nexT]
 
 ---
 

@@ -2,7 +2,7 @@
 title: Hello World
 date: 2018/10/01 13:46:25
 categories: hexo
-tags: [hexo, help, 帮助]
+tags: [hexo]
 description: 文章描述？？？
 
 ---

@@ -2,7 +2,7 @@
 title: hexo github 阿里云搭建博客系统
 date: 2018/10/07 13:46:25
 categories: hexo
-tags: [hexo, github, 阿里云, 博客]
+tags: [hexo]
 
 ---
 

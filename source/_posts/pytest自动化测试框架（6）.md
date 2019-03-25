@@ -2,7 +2,7 @@
 title: pytest自动化测试框架（6）-pytest+Allure+jenkins集成
 date: 2018/10/24 13:46:25
 categories: [软件测试, 自动化测试]
-tags: [pytest, 自动化测试]
+tags: [pytest]
 
 ---
 

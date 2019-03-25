@@ -2,7 +2,7 @@
 title: vue.js学习笔记（10）
 date: 2018/12/26 10:23:00
 categories: [前端, vue.js]
-tags: [vue.js]
+tags: [vue]
 ---
 
 编程式导航以及hash模式

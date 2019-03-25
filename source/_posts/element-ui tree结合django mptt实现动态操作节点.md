@@ -2,7 +2,7 @@
 title: element-ui tree结合django mptt实现动态操作节点
 date: 2019/02/22 14:32:00
 categories: [前端, vue.js]
-tags: [tree, mppt]
+tags: [elementUI]
 ---
 
 ### models.py

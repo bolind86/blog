@@ -2,7 +2,7 @@
 title: pycharm设置使用py.test执行或者调试
 date: 2018/11/21 09:47:00
 categories: 软件测试
-tags: [pycharm, py.test]
+tags: [py.test]
 ---
 
 `pycharm`默认使用`unittest`进行测试及调试，那么如何设置让`pycharm`默认使用`py.test`模式进行测试呢？

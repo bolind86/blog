@@ -2,7 +2,7 @@
 title: windows创建软链接、硬链接
 date: 2018/12/13 10:43:00
 categories: windows
-tags: [mklink, 软链接, 硬链接, 同步]
+tags: [mklink]
 ---
 
 `python`项目上传到局域网`gitlab`进行管理，同时还想将项目保存到`coding.net`进行备份，我想只维护一份文件，另一份文件自动同步，只需`push`就可以，需要注意的是不能直接在根目录创建符号链接，毕竟`.git`文件内容不一样。
