@@ -126,3 +126,22 @@ export const login_elements = {
 }
 ```
 
+## 执行测试
+
+在启动界面点击脚本文件即可执行测试
+
+![执行页面](http://img.qizhenjun.com/QQ%E6%88%AA%E5%9B%BE20190604144411.png)
+
+在执行时会对每一步操作进行快照，执行完成后可以查看每一步的执行情况，也可以查看是在哪一步没有通过。
+
+## 命令行测试
+
+在命令行执行`cypress run --record --key <record key>`
+
+`record key`可以在启动界面的`setting`页签中找到，执行结果会上传到cypress服务器（需要创建项目）
+
+![](http://img.qizhenjun.com/QQ%E6%88%AA%E5%9B%BE20190604144848.png)
+
+查看执行过程视频：
+
+![](http://img.qizhenjun.com/QQ%E6%88%AA%E5%9B%BE20190604144959.png)
