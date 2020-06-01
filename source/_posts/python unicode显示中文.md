@@ -1,7 +1,7 @@
 ---
 title: Python unicode显示中文
 date: 2019/03/04 17:17:00
-categories: [软件测试, python]
+categories: [Python]
 tags: [unicode]
 ---
 

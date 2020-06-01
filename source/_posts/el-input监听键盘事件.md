@@ -1,8 +1,8 @@
 ---
 title: element el-input组件监听键盘事件
 date: 2019/02/14 10:16:00
-categories: [前端, vue.js]
-tags: [elementUI]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 ```vue

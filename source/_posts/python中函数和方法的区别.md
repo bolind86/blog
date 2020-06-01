@@ -1,8 +1,8 @@
 ---
 title: python中函数和方法的区别
 date: 2018/11/01 13:46:25
-categories: [软件测试, python]
-tags: [python]
+categories: [Python]
+tags: [Python]
 ---
 
 **摘要：**

@@ -1,7 +1,7 @@
 ---
 title: CentOS7安装Tomcat8
 date: 2018/10/02 13:46:25
-categories: [软件测试, tomcat]
+categories: [Linux, CentOS]
 tags: [tomcat]
 
 ---

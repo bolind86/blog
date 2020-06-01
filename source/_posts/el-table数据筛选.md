@@ -1,8 +1,8 @@
 ---
 title: el-table数据筛选
 date: 2019/02/14 16:16:00
-categories: [前端, vue.js]
-tags: [elementUI]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 `element ui`中`table`数据筛选示例仅能筛选展示出来的数据，如果要通过筛选条件到后台查询需要稍做调整。

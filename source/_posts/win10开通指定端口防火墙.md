@@ -1,7 +1,7 @@
 ---
 title: win10提供指定端口给其他电脑访问
 date: 2018/11/08 13:46:25
-categories: windows
+categories: Windows
 tags: [防火墙]
 ---
 

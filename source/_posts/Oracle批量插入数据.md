@@ -1,8 +1,8 @@
 ---
 title: Oracle批量插入数据
 date: 2018/12/03 11:45
-categories: [数据库, oracle]
-tags: [oracle]
+categories: [数据库, Oracle]
+tags: [Oracle]
 ---
 
 安装`mysql`的写法会报错，`Oracle`的写法有点区别

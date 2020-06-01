@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（06）
 date: 2018/12/15 09:29:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 Vue中创建单文件组件 注册组件  以及组件的使用

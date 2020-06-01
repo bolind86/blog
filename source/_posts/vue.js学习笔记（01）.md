@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（01）
 date: 2018/12/14 11:28:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 Vue.js是一套构建用户界面的渐进式框架。

@@ -1,7 +1,7 @@
 ---
 title: Django集成Vue.js框架
 date: 2018/12/18 19:26:00
-categories: [软件测试, python, Django]
+categories: [Python, Django]
 tags: [Django, vue]
 ---
 

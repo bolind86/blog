@@ -1,8 +1,8 @@
 ---
 title: hexo个人博客自定义首页
 date: 2018/10/08 13:46:25
-categories: hexo
-tags: [nexT]
+categories: Hexo
+tags: [Hexo]
 
 ---
 

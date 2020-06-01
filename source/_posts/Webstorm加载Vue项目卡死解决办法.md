@@ -1,7 +1,7 @@
 ---
 title: Webstorm加载Vue项目卡死解决办法
 date: 2018/12/14 11:49:00
-categories: [前端, vue.js]
+categories: [前端, Vue]
 tags: [webstorm]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: python中的for循环计数
 date: 2018/11/15 13:46:25
-categories: [软件测试, python]
+categories: [Python]
 tags: [计数]
 ---
 

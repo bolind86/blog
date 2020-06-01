@@ -1,8 +1,8 @@
 ---
 title: ssh连接虚拟机报connection established
 date: 2019/04/08 16:19:00
-categories: [linux]
-tags: [linux]
+categories: [Linux]
+tags: [ssh]
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: python3连接Oracle脚本
 date: 2019/03/25 17:23:00
-categories: [python]
-tags: [python]
+categories: [Python]
+tags: [Oracle]
 ---
 
 ```python

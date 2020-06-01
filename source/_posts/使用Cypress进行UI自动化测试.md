@@ -1,8 +1,8 @@
 ---
 title: 使用Cypress进行UI自动化测试
 date: 2019/06/04 14:10:00
-categories: [软件测试, 自动化测试, UI自动化]
-tags: [cypress]
+categories: [Cypress]
+tags: [Cypress]
 ---
 
 # Cypress介绍

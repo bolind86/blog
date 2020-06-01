@@ -1,7 +1,7 @@
 ---
 title: python3发送邮件
 date: 2018/11/12 13:46:25
-categories: [软件测试, python]
+categories: [Python]
 tags: [邮件]
 
 ---

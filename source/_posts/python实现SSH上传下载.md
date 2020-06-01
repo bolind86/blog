@@ -1,8 +1,8 @@
 ---
 title: python3实现SSH上传下载
 date: 2018/10/11 13:46:25
-categories: [软件测试, python]
-tags: [上传, 下载]
+categories: [Python]
+tags: [ssh]
 ---
 
 **摘要:**直接上代码

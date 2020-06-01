@@ -1,7 +1,7 @@
 ---
 title: Selenium键盘事件
 date: 2018/11/19 14:14:25
-categories: [软件测试, 自动化测试, UI自动化]
+categories: [Python]
 tags: [selenium]
 ---
 

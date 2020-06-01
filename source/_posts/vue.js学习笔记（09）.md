@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（09）
 date: 2018/12/17 09:19:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 路由

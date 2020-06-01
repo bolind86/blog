@@ -1,8 +1,8 @@
 ---
 title: Linux压缩及解压
 date: 2018/10/15 13:46:25
-categories: linux
-tags: [压缩, 解压]
+categories: Linux
+tags: [tar]
 ---
 
 linux压缩及解压命令。

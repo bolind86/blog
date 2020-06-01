@@ -1,8 +1,8 @@
 ---
 title: Python小知识汇总
 date: 2019/06/13 14:41:00
-categories: [软件测试, python]
-tags: [python]
+categories: [Python]
+tags: [Python]
 ---
 
 # 字符串

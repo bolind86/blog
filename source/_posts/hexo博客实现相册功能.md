@@ -1,8 +1,8 @@
 ---
 title: hexo博客增加相册功能
 date: 2018/10/11 13:46:25
-categories: hexo
-tags: [nexT]
+categories: Hexo
+tags: [Hexo]
 ---
 
 hexo实现相册功能很容易，但是如果把图片都放到github仓库，时间久了会浪费很多资源，于是想到将照片放到七牛云去管理。

@@ -1,7 +1,7 @@
 ---
 title: windows创建软链接、硬链接
 date: 2018/12/13 10:43:00
-categories: windows
+categories: Windows
 tags: [mklink]
 ---
 

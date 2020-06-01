@@ -1,7 +1,7 @@
 ---
 title: JS对HTML内容进行转义
 date: 2019/01/01 00:00:00
-categories: [JavaScript]
+categories: [前端, JavaScript]
 ---
 
 ```js

@@ -1,7 +1,7 @@
 ---
 title: Jenkins+Gitlab持续集成
 date: 2018/10/13 13:46:25
-categories: [软件测试, jenkins]
+categories: [Jenkins]
 tags: [Jenkins]
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: python3操作Excel
 date: 2018/11/13 13:46:25
-categories: [软件测试, python]
+categories: [Python]
 tags: [excel]
 
 ---

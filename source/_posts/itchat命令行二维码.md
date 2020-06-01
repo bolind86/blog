@@ -1,7 +1,7 @@
 ---
 title: itchat命令行二维码
 date: 2018/11/24 10:46:00
-categories: [软件测试, python]
+categories: [Python]
 tags: [itchat]
 ---
 

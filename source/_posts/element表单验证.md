@@ -1,8 +1,8 @@
 ---
 title: Element UI表单验证
 date: 2019/02/18 09:40:00
-categories: [前端, vue.js]
-tags: [elementUI]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 模板内容：

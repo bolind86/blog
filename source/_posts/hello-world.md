@@ -1,8 +1,8 @@
 ---
 title: Hello World
 date: 2018/10/01 13:46:25
-categories: hexo
-tags: [hexo]
+categories: Hexo
+tags: [Hexo]
 description: 文章描述？？？
 
 ---

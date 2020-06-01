@@ -1,8 +1,8 @@
 ---
 title: git clone GitHub分支上的代码
 date: 2018/11/09 14:25:25
-categories: [软件测试, git]
-tags: [git]
+categories: [Git]
+tags: [Git]
 ---
 
 ```shell

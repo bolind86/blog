@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（08）
 date: 2018/12/15 16:59:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 父子组件传值   非父子组件传值

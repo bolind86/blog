@@ -1,8 +1,8 @@
 ---
 title: Oracle百万级数据秒级插入
 date: 2018/10/16 13:46:25
-categories: [数据库, oracle]
-tags: [oralce]
+categories: [数据库, Oracle]
+tags: [Oracle]
 
 ---
 **摘要:**在性能测试数据准备阶段,经常需要插入几万,甚至上百万的数据,如果使用脚本或者手动插入是极不现实的,这里提供一段SQL能在在几秒内完成数据准备的工作.

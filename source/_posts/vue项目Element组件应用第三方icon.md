@@ -1,8 +1,8 @@
 ---
 title: vue项目Element组件引用第三方icon图标
 date: 2018/12/28 15:31:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 Element UI自带的ICON图标极少，少的令人发指

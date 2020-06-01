@@ -1,7 +1,7 @@
 ---
 title: linux后台运行程序
 date: 2019/03/04 17:40:00
-categories: [linux]
+categories: [Linux]
 tags: [nohup]
 ---
 

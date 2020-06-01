@@ -1,7 +1,7 @@
 ---
 title: django获取最新一行数据
 date: 2019/02/22 14:57:00
-categories: [软件测试, python, Django]
+categories: [Python, Django]
 tags: [Django]
 ---
 

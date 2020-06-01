@@ -1,8 +1,8 @@
 ---
 title: Hexo博客问题汇总
 date: 2018/10/12 13:46:25
-categories: hexo
-tags: [hexo]
+categories: Hexo
+tags: [Hexo]
 ---
 
 摘要：hexo个人博客问题汇总及解决办法。

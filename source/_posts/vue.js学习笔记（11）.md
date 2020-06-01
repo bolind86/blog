@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（11）
 date: 2018/12/26 11:06:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 嵌套路由

@@ -1,8 +1,8 @@
 ---
 title: vue.js学习笔记（03）
 date: 2018/12/14 15:36:00
-categories: [前端, vue.js]
-tags: [vue]
+categories: [前端, Vue]
+tags: [Vue]
 ---
 
 双向数据绑定 以及Vue中的ref获取dom节点
